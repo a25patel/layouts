@@ -1,3 +1,23 @@
-body{
-  color: blue; 
+main{
+  border: 1px solid black;
+  margin: 1%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+article{
+  box-sizing: border-box;
+  border: 1px solid black;
+  width: 48%;
+  margin: 1%;
+  height: 300px;
+}
+
+aside{
+  border: 1px solid black;
+  width: 31%;
+  margin: 1%;
+  height: 300px;
+
 }
