@@ -1,0 +1,39 @@
+body{
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-flow: row wrap;
+  width: 100%;
+  justify-content: center;
+}
+header{
+  border: 1px solid black;
+  width: 100%;
+  margin: 1%;
+  height: 100px;
+}
+
+.middle{
+  border: 1px solid black;
+  height: 450px;
+  box-sizing: border-box;
+  margin: 1%;
+}
+
+nav{
+  width: 20%;
+}
+
+main{
+  width: 54%;
+}
+
+aside{
+  width: 20%;
+}
+
+footer{
+  border: 1px solid black;
+  width: 98%;
+  margin: 1%;
+  height: 100px;
+}

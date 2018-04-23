@@ -1,0 +1,22 @@
+div{
+  border: 1px solid black;
+  margin: 1%;
+  padding: 1%;
+  display: flex;
+
+}
+
+aside{
+  border: 1px solid black;
+  min-width: 100px;
+  min-height: 100px;
+  height: 100px; 
+}
+
+p{
+  margin: 1%;
+}
+
+.two{
+  flex-flow: row-reverse;
+}

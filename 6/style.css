@@ -1,0 +1,38 @@
+main{
+  border: 1px solid black;
+  margin: 0 auto;
+  width: 70%;
+
+}
+
+header{
+  font-size: 3em;
+  font-family: serif;
+  text-align: center;
+}
+
+nav{
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+div{
+  width: 20%;
+  padding: 10px;
+  height: 200px;
+  /*box-sizing: border-box;
+  min-height: 100px;
+  display: inline-block;
+  text-align: center;*/
+}
+
+img{
+  max-width: 100%;
+}
+
+aside{
+  border: 1px solid black;
+  margin:2%;
+  padding: 1%; 
+}
